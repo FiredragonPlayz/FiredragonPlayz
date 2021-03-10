@@ -1,14 +1,17 @@
 ### Hi there 👋, I'm FiredragonPlayz!
 
 <br/>
-<a href="https://discord.com/users/725945760629129277">
+<a href="https://discord.com/users/725945760629129277" target="_blank" >
     <img align ="left" alt="FiredragonPlayz's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-  <a href="https://twitter.com/Firedragon_Play">
+  <a href="https://twitter.com/Firedragon_Play" target="_blank">
     <img align ="left" alt="FiredragonPlayz's Twitter " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
-  <a href="https://youtube.com/c/FiredragonPlayz">
+  <a href="https://youtube.com/c/FiredragonPlayz" target="_blank">
     <img align ="left" alt="FiredragonPlayz's Twitter " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  </a>
+  <a href="https://github.com/FiredragonPlayz" target="_blank">
+    <img align ="left" alt="FiredragonPlayz's Github " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
 
 ![]()
