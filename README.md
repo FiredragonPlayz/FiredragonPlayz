@@ -30,7 +30,7 @@ Hey, I'm FiredragonPlayz, a YouTube, Discord Bot Developer, Website Developer an
 
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=DeltaCoderr&theme=dracula&count_private=true"></div>
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=FiredragonPlayz&theme=dracula&count_private=true"><img align="right" src="https://github-readme-stats.vercel.app/api?username=firedragonplayz&show_icons=true&hide_border=true&theme=tokyonight">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=firedragonplayz&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiredragonPlayz&theme=tokyonight&hide=batchfile">
 
 
 **Projects**
