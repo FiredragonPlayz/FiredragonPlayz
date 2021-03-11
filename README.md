@@ -21,6 +21,7 @@
 <!-- ![Discord](https://discord.c99.nl/widget/theme-3/725945760629129277.png) -->
 <a href="https://discord.com/users/725945760629129277">
 <img src="https://discord.c99.nl/widget/theme-3/725945760629129277.png" alt="Discord"/>
+</a>
 
 Hey, I'm FiredragonPlayz, a YouTube, Discord Bot Developer, Website Developer and Gamer!
 
