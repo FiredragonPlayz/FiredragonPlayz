@@ -18,7 +18,9 @@
 
 <br/>
 
-![Discord](https://discord.c99.nl/widget/theme-3/725945760629129277.png)
+<!-- ![Discord](https://discord.c99.nl/widget/theme-3/725945760629129277.png) -->
+<a href="https://discord.com/users/725945760629129277">
+<img src="https://discord.c99.nl/widget/theme-3/725945760629129277.png" alt="Discord"/>
 
 Hey, I'm FiredragonPlayz, a YouTube, Discord Bot Developer, Website Developer and Gamer!
 
@@ -40,10 +42,7 @@ Hey, I'm FiredragonPlayz, a YouTube, Discord Bot Developer, Website Developer an
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=firedragonplayz&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiredragonPlayz&theme=tokyonight&hide=batchfile">
 
 
-</br>
 
-
-**Usefull Repositories**
 
 <a href="https://github.com/FiredragonPlayz/Mod-Mail">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=FiredragonPlayz&repo=Mod-Mail&theme=dracula" alt="Discord" width="400"/>
