@@ -38,3 +38,13 @@ Hey, I'm FiredragonPlayz, a YouTube, Discord Bot Developer, Website Developer an
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=DeltaCoderr&theme=dracula&count_private=true"></div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=firedragonplayz&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiredragonPlayz&theme=tokyonight&hide=batchfile">
+
+
+</br>
+
+
+**Usefull Repositories**
+
+<a href="https://github.com/FiredragonPlayz/Mod-Mail">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=FiredragonPlayz&repo=Mod-Mail&theme=dracula" alt="Discord" width="400"/>
+</a>
