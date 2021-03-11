@@ -47,4 +47,6 @@ Hey, I'm FiredragonPlayz, a YouTube, Discord Bot Developer, Website Developer an
 
 <a href="https://github.com/FiredragonPlayz/Mod-Mail">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=FiredragonPlayz&repo=Mod-Mail&theme=dracula" alt="Discord" width="400"/>
+<a href="https://github.com/FiredragonPlayz/Advanced-Website-HTML-and-CSS">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=FiredragonPlayz&repo=Advanced-Website-HTML-and-CSS&theme=dracula" alt="Discord" width="400"/>
 </a>
